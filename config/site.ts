@@ -1,12 +1,13 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Chengxiang Wu - Full Stack Developer & Data Scientist",
-  description: "Personal website of Chengxiang (Eric) Wu",
+  name: "ChezWe - A Novel And Interesting Store",
+  description: "Website of Chezwe - A Novel And Interesting Store",
   links: {
-    github: "https://github.com/itsEricWu",
+    ChezWe: "https://www.chezwestlye.com/",
+    ChezWeMiniShop: "https://www.chezwe.shop/",
     linkedin: "https://www.linkedin.com/in/chengxiang-wu/",
-    email: "mailto:cxwu00@gmail.com",
+    email: "mailto:onlyyou5201314@outlook.com",
   },
 };
 
