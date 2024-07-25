@@ -1,4 +1,6 @@
 export const icons = [
+  "chezwe",
+  "chezweminishop",
   "typescript",
   "javascript",
   "java",
