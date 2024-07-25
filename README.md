@@ -1,6 +1,6 @@
 # My personal Website
 
-<a href="https://ericwu.me">ericwu.me</a>
+<a href="https://github.com">github.com</a>
 
 ![image](https://github.com/user-attachments/assets/38e4b0b4-b942-4e46-9248-4423e820bba9)
 
